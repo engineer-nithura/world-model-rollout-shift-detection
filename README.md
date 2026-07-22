@@ -1,6 +1,6 @@
 # World Model Rollout Shift Detection
 
-Testing whether a single trained world model can detect its own distribution shift using only closed-loop rollout error — no ensembles, no labels. Calibrated against a physics-oracle ceiling (~57% recovery) and shown to diverge from task-regret, a standard curriculum-learning difficulty signal.
+Testing whether a single trained world model can detect its own distribution shift using only closed-loop rollout error using no ensembles or labels. Calibrated against a physics-oracle ceiling (~57% recovery) and shown to diverge from task-regret, a standard curriculum-learning difficulty signal.
 
 ## Core Claim
 
